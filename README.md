@@ -1,2 +1,2 @@
 # JWT
-Auth0 using jwt  to authorize user
+Authentication using jwt  to authorize user
